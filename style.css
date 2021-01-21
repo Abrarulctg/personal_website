@@ -1,0 +1,23 @@
+body{
+    padding:0 50px;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar li{
+    list-style: none;
+    float: right;
+}
+.navbar li a{
+    text-decoration: none;
+    color: gray;
+    font-weight: 700;
+    padding-left: 40px;
+}
+
+h1{
+    font-size: 44px;
+}
+.text-highlight{
+    color: tomato;
+}
