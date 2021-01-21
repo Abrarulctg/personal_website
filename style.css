@@ -1,7 +1,7 @@
 body{
     padding:0 50px;
     margin: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Bebas Neue', cursive;
 }
 
 .navbar li{
@@ -10,14 +10,54 @@ body{
 }
 .navbar li a{
     text-decoration: none;
-    color: gray;
+    color: rgb(94, 94, 94);
     font-weight: 700;
     padding-left: 40px;
+    font-family: sans-serif;
 }
 
 h1{
-    font-size: 44px;
+    font-size: 48px;
+    margin-bottom: 10px;
 }
 .text-highlight{
     color: tomato;
+}
+
+.half-width{
+    float:left;
+    width: 40%;
+    padding-left: 4%;
+}
+
+.half-width img{
+    width:100%;
+}
+
+.paragraph{
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 40px;
+
+}
+
+.color-btn{
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: 400;
+    background-color:#FF6C63 ;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 5px;
+}
+
+section{
+    padding-bottom: 80px;
+}
+
+
+.project-area{
+    background-color: #E5E5E5;
+    width:100%;
+    float:left;
 }
