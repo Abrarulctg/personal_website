@@ -7,6 +7,7 @@ body{
 .navbar li{
     list-style: none;
     float: right;
+    padding-right:80px;
 }
 .navbar li a{
     text-decoration: none;
@@ -145,4 +146,17 @@ h3{
 .social-widgets img{
     width:40px;
     margin-left:15px;
+}
+
+footer{
+    text-align: center;
+    font-family: 'Roboto', sans-serif; 
+}
+
+footer a{
+    text-decoration: none;
+    color:black
+}
+footer a:hover{
+    text-decoration: underline;
 }
